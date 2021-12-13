@@ -1,4 +1,5 @@
 f = open("Introduction/birds.txt","r")
 data = f.read()
-print(data)
+lines = data.split("\n")
+print(lines)
 f.close()
