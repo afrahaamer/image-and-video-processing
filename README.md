@@ -1,2 +1,1 @@
-# image-and-video-processing
-Image and Video Processing Lab 
+# Image and Video Processing  
