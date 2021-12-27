@@ -12,7 +12,7 @@ cv2.imshow("Original Image",img)
 
 
 # Method 2 
-r = img.copy()
+r = img.copy()              	# Creates a copy of the image array 
 r[:,:,0] = r[:,:,1] = 0         # Setting b & g channels to 0/black
 cv2.imshow("red",r)
 
