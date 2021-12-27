@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("C://deets//1-1//Image and Video Processing//IVP Lab//image-and-video-processing//Images//Coloured_Circle.png")
+img = cv2.imread("Images//Coloured_Circle.png")
 cv2.imshow("Original Image",img)
 
 # Splitting the image

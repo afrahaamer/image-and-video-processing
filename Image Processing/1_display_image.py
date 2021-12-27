@@ -3,7 +3,7 @@
 # Afrah Aamer
 #
 import cv2
-import sys
+
 rgb_img = cv2.imread("Images//RGB_illumination.jpg")
 cv2.imshow("RGB Image",rgb_img)
 cv2.waitKey(0)
